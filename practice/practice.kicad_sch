@@ -344,7 +344,7 @@
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 2de85b8a-5fc0-4e21-ad52-2cca4d4125c0)
     (property "Reference" "R1" (id 0) (at 134.62 82.55 90))
-    (property "Value" "220" (id 1) (at 134.62 85.09 90))
+    (property "Value" "1000" (id 1) (at 134.62 85.09 90))
     (property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" (id 2) (at 134.62 90.678 90)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -458,7 +458,7 @@
       (reference "D2") (unit 1) (value "LED") (footprint "LED_THT:LED_D5.0mm")
     )
     (path "/2de85b8a-5fc0-4e21-ad52-2cca4d4125c0"
-      (reference "R1") (unit 1) (value "220") (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
+      (reference "R1") (unit 1) (value "1000") (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
     )
     (path "/7d830e22-5b15-4106-abc9-fcdc42c188aa"
       (reference "R2") (unit 1) (value "220") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder")
